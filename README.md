@@ -13,6 +13,7 @@
                 1. https://www.acmicpc.net/problem/10951 -> https://wikidocs.net/30  
                 2. https://www.acmicpc.net/problem/2941
                 3. https://www.acmicpc.net/problem/1193
+                4. https://www.acmicpc.net/problem/2869
             </div>
         </details>
         
